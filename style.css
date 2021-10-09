@@ -1,6 +1,20 @@
 body{
-    background-color: lightgoldenrodyellow;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgba(221, 229, 231, 0.432);
+    font-family:Apple Chancery, cursive;
+    text-align: justify;
+}
+h1{
+    background-color: rgba(230, 230, 200, 0.473);
+    text-align: center;
+}
+h2{
+    color: rgb(94, 94, 206);
+}
+h5 a{
+    color: red;
+}
+h6{
+    color: gray;
 }
 img{
     width: 100%;
